@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = ""
+baseURL = "https://web.hugity.com/j579bb5bh3xqn2943a5xjqhc117pygr4/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
